@@ -1,0 +1,30 @@
+{
+  "name": "generator-yody",
+  "version": "1.0.0",
+  "description": "Runs a sass+jade preprocessor, initiates with bootstrap, jquery, and grunt.",
+  "files": [
+  	"app"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "yody-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darthyody/generator-yody.git"
+  },
+  "keywords": [
+    "sass",
+    "jade",
+    "bootstrap",
+    "jquery",
+    "grunt",
+    "yeoman-generator"
+  ],
+  "author": "Joshua S. Michalik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darthyody/generator-yody/issues"
+  },
+  "homepage": "https://github.com/darthyody/generator-yody"
+}
